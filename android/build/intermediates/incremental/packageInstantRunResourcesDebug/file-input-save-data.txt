@@ -1,0 +1,15 @@
+#Internal package file, do not edit.
+#Thu Aug 17 01:01:57 MSK 2017
+1.base=D\:\\Android_project\\New\\android\\build\\intermediates\\assets\\debug
+1.file=D\:\\Android_project\\New\\android\\build\\intermediates\\assets\\debug\\badlogic.jpg
+2.base=D\:\\Android_project\\New\\android\\build\\intermediates\\res\\resources-debug.ap_
+3.set=ANDROID_RESOURCE
+2.set=ANDROID_RESOURCE
+2.file=D\:\\Android_project\\New\\android\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\ic_launcher.png
+count=4
+1.set=ASSET
+3.base=D\:\\Android_project\\New\\android\\build\\intermediates\\res\\resources-debug.ap_
+0.set=ANDROID_RESOURCE
+0.base=D\:\\Android_project\\New\\android\\build\\intermediates\\res\\resources-debug.ap_
+3.file=D\:\\Android_project\\New\\android\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+0.file=D\:\\Android_project\\New\\android\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc

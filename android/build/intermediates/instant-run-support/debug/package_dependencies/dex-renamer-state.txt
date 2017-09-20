@@ -1,0 +1,10 @@
+#Thu Aug 17 01:06:02 MSK 2017
+renamed.2=classes3.dex
+renamed.1=classes.dex
+renamed.0=classes2.dex
+base.2=D\:\\Android_project\\New\\android\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\gdx-box2d-1.9.6_9e2f8062804218d7aac11475d9b4811f199ae642
+base.1=D\:\\Android_project\\New\\android\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\gdx-1.9.6_96deeccaeed020a40c8b83b1a4a42d1e2377de13
+base.0=D\:\\Android_project\\New\\android\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\gdx-backend-android-1.9.6_1996f66a9db5746c2c4d38a4ae7d0a9407b9841e
+file.2=D\:\\Android_project\\New\\android\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\gdx-box2d-1.9.6_9e2f8062804218d7aac11475d9b4811f199ae642\\classes.dex
+file.1=D\:\\Android_project\\New\\android\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\gdx-1.9.6_96deeccaeed020a40c8b83b1a4a42d1e2377de13\\classes.dex
+file.0=D\:\\Android_project\\New\\android\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\gdx-backend-android-1.9.6_1996f66a9db5746c2c4d38a4ae7d0a9407b9841e\\classes.dex
